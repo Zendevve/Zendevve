@@ -30,44 +30,44 @@
 
 <br/>
 
-| 🚀 Tech Stack | 🧱 Activity |
-| :---: | :---: |
-| 
-<div align="center">
-
-**languages**  
-<img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-
-<br/>
-
-**frontend**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-
-<br/>
-
-**backend**  
-<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-
-<br/>
-
-**databases / tools**  
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-</div>
-
-| 
-<img src="https://github.com/Zendevve/Zendevve/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> 
-|
+<!-- START GRIDBOX -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Tech Stack</h3>
+      <div align="center">
+        <!-- Languages -->
+        <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <br/>
+        <!-- Frontend -->
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <br/>
+        <!-- Backend -->
+        <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <br/>
+        <!-- DB -->
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧱 Activity</h3>
+      <div align="center">
+        <img src="https://github.com/Zendevve/Zendevve/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- END GRIDBOX -->
 
 <br/>
 
