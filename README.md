@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Increased width to 700 to guarantee text fits -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <!-- Width increased to 800 to ensure text fits on all screens -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
      Creating seamless digital experiences with <b>Code</b> & <b>Design</b>.
@@ -64,14 +64,15 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <!-- FIX APPLIED: Added '&hide_rank=true' and '&disable_animations=true' to prevent server timeout -->
   <a href="https://github.com/Zendevve">
-    <!-- Added &v=2 to force cache clear -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Zendevve's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&disable_animations=true" alt="Zendevve's GitHub Stats" />
   </a>
+  
   <br/><br/>
+
   <a href="https://github.com/Zendevve">
-    <!-- Added &v=2 to force cache clear -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true" alt="Top Languages" />
   </a>
 </div>
 
