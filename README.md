@@ -25,15 +25,14 @@
 </div>
 <br />
 
-<!-- STATS SECTION (New Addition) -->
+<!-- STATS SECTION (Fixed) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" height="150" alt="languages graph" />
 </div>
 <br />
 
 <!-- DASHBOARD -->
-<!-- I split the Tech Stack into rows for better readability -->
 | 🚀 Technical Arsenal | 🧱 Isometric Activity |
 | :---: | :---: |
 | **Languages**<br/><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /><br/><br/>**Frontend**<br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /><br/><br/>**Backend**<br/><img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | <a href="https://github.com/Zendevve"><img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric Contribution" width="100%" /></a> |
@@ -41,7 +40,6 @@
 <br/>
 
 <!-- SNAKE ANIMATION -->
-<!-- Changed link to RAW so it actually renders -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
@@ -70,6 +68,7 @@
 </div>
 <br />
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
