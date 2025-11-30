@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # FIXED USERNAME BELOW: yoshi389111
+      # CORRECT USERNAME: yoshi389111
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
