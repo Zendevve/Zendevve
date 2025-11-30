@@ -1,12 +1,3 @@
-I have adjusted the Typing Animation width (increased from 500 to 600) so the text "Full Stack Dev" doesn't get cut off like in your screenshot.
-
-Here is the complete, updated README.md code with the text fix and the working stats cards.
-
-code
-Markdown
-download
-content_copy
-expand_less
 <div align="center">
   
   <!-- Fixed width to 600 to prevent text cutoff -->
