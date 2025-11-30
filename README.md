@@ -1,6 +1,16 @@
+I have adjusted the Typing Animation width (increased from 500 to 600) so the text "Full Stack Dev" doesn't get cut off like in your screenshot.
+
+Here is the complete, updated README.md code with the text fix and the working stats cards.
+
+code
+Markdown
+download
+content_copy
+expand_less
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <!-- Fixed width to 600 to prevent text cutoff -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
      Creating seamless digital experiences with <b>Code</b> & <b>Design</b>.
@@ -64,11 +74,11 @@
 
 <div align="center">
   <a href="https://github.com/Zendevve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zendevve's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true" alt="Zendevve's GitHub Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/Zendevve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
