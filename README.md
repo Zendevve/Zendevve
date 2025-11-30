@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- Width increased to 800 to ensure text fits on all screens -->
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
@@ -64,21 +64,23 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- FIX APPLIED: Added '&hide_rank=true' and '&disable_animations=true' to prevent server timeout -->
+  <!-- Trophies (Replaces broken stats) -->
   <a href="https://github.com/Zendevve">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&disable_animations=true" alt="Zendevve's GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zendevve&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Zendevve's Trophies" />
   </a>
   
   <br/><br/>
 
+  <!-- Activity Graph (Replaces broken language card) -->
   <a href="https://github.com/Zendevve">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&disable_animations=true" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zendevve&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="Zendevve's Activity Graph" />
   </a>
 </div>
 
 <br/>
 
 <div align="center"> 
+  <!-- Streak Stats (This one works) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zendevve&theme=tokyonight&hide_border=true" alt="Zendevve's Streak" />
 </div>
 
