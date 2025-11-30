@@ -40,6 +40,12 @@
 </div>
 <br />
 
+<!-- STREAK STATS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zendevve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br />
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
