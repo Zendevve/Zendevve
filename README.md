@@ -42,7 +42,7 @@
   <summary><b>⚙️ My Development Gear & Setup</b> (Click to Expand)</summary>
   <br />
   <ul>
-    <li><b>OS:</b> Windows 11 / Linux Dual Boot</li>
+    <li><b>OS:</b> Tiny10 </li>
     <li><b>Editor:</b> VS Code (Tokyo Night Theme)</li>
     <li><b>Terminal:</b> PowerShell / Bash</li>
   </ul>
