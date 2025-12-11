@@ -38,10 +38,10 @@
     <img src="https://i.ibb.co/kskNVNW4/data-analytics-essentials.png" alt="Badge 2" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44">
-    <img src="https://images.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44/image.png" alt="Badge 3" width="120"/>
+    <img src="https://i.ibb.co/PsThJwwV/ethical-hacker.png" alt="Badge 3" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/6311ea47-97f9-4557-b703-4bd9711097bc">
-    <img src="https://images.credly.com/badges/6311ea47-97f9-4557-b703-4bd9711097bc/image.png" alt="Badge 4" width="120"/>
+    <img src="https://i.ibb.co/sJJNgMSj/introduction-to-cybersecurity.png" alt="Badge 4" width="120"/>
   </a>
 </p>
 
