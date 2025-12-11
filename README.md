@@ -47,16 +47,16 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/a7ce69d1-9b64-4822-85f9-57a0c9fb4728">
-    <img src="https://images.credly.com/badges/a7ce69d1-9b64-4822-85f9-57a0c9fb4728/image.png" alt="Badge 5" width="120"/>
+    <img src="https://i.ibb.co/zTpY93vW/introduction-to-data-science.png" alt="Badge 5" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/69224146-06de-44f0-a109-1a568a9bec0c">
-    <img src="https://images.credly.com/badges/69224146-06de-44f0-a109-1a568a9bec0c/image.png" alt="Badge 6" width="120"/>
+    <img src="https://i.ibb.co/qM23mF8c/junior-cybersecurity-analyst-career-path-1.png" alt="Badge 6" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/5a9e1872-91c2-4fb7-8165-673597eed77c">
-    <img src="https://images.credly.com/badges/5a9e1872-91c2-4fb7-8165-673597eed77c/image.png" alt="Badge 7" width="120"/>
+    <img src="https://i.ibb.co/YBC6Ywmt/python-essentials-1-1.png" alt="Badge 7" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/24712d9c-4625-452b-9b52-08ac9960e788">
-    <img src="https://images.credly.com/badges/24712d9c-4625-452b-9b52-08ac9960e788/image.png" alt="Badge 8" width="120"/>
+    <img src="https://i.ibb.co/4wPD45P1/python-essentials-2.png" " alt="Badge 8" width="120"/>
   </a>
 </p>
 
