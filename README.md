@@ -32,10 +32,10 @@
 <h3 align="center">🎓 Certifications</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/af966ca3-c4eb-43e2-838f-6c5313ec45cb">
-    <img src="https://images.credly.com/badges/af966ca3-c4eb-43e2-838f-6c5313ec45cb/image.png" alt="Badge 1" width="120"/>
+    <img src="https://i.ibb.co/wZ4KddmX/computer-hardware-basics.png" alt="Badge 1" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/27e10d6a-001c-42d2-87e3-059f9c3c1218">
-    <img src="https://ibb.co/WNfcHHJw" alt="Badge 2" width="120"/>
+    <img src="https://i.ibb.co/kskNVNW4/data-analytics-essentials.png" alt="Badge 2" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44">
     <img src="https://images.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44/image.png" alt="Badge 3" width="120"/>
