@@ -1,12 +1,12 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+UI%2FUX+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zendevve+%F0%9F%91%8B;Engineering+the+future...;One+line+at+a+time.;Full+Stack+Dev+%7C+Extension+Builder+%7C+WoW+Addon+Creator"
     alt="Typing SVG"
   />
 
   <p>
-    I build web apps and focus on clean UI/UX.<br/>
-    I work mostly with <b>React</b>, <b>TypeScript</b>, and <b>Python</b>.
+    I build web apps, browser extensions, VS Code extensions, desktop apps, and WoW addons.<br/>
+    I work with <b>TypeScript</b>, <b>React</b>, <b>Rust</b>, <b>Python</b>, and <b>Lua</b>.
   </p>
 
   <a href="https://github.com/Zendevve?tab=repositories">
@@ -69,7 +69,7 @@
 <!-- TECH STACK + 3D CONTRIBUTION (SEPARATED ZONE) -->
 | 🚀 Technical Arsenal | 🧱 Isometric Activity |
 | :---: | :---: |
-| **Languages**<br/>![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/><br/>**Frontend**<br/>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white)<br/><br/>**Backend**<br/>![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) | <img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> |
+| **Languages**<br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)<br/><br/>**Frontend**<br/>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)<br/><br/>**Backend**<br/>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<br/><br/>**Desktop & Extensions**<br/>![VS Code](https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Chrome](https://img.shields.io/badge/Chrome_Ext-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![eGUI](https://img.shields.io/badge/eGUI-000000?style=flat-square&logo=rust&logoColor=white)<br/><br/>**Game Modding**<br/>![WoW Addons](https://img.shields.io/badge/WoW_Addons-148EFF?style=flat-square&logo=battlenet&logoColor=white) | <img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> |
 
 ---
 
