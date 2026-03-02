@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=230&section=header&text=zdev&fontSize=90&fontColor=ffffff&fontAlignY=34&desc=I%20build%20tools%20people%20actually%20use.&descSize=20&descColor=c9d1d9&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%A6%80+Shipping+desktop+apps+with+Rust;%F0%9F%94%A7+Crafting+browser+extensions+in+TypeScript;%F0%9F%8E%AE+Modding+World+of+Warcraft+with+Lua;%F0%9F%9A%80+Full-stack+with+React+%2B+Django;%E2%9A%A1+I+ship+tools%2C+not+templates" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%A6%80+Shipping+desktop+apps+with+Rust;%F0%9F%94%A7+Crafting+browser+extensions+in+TypeScript;%F0%9F%9A%80+Full-stack+with+React+%2B+Django;%E2%9A%A1+I+ship+tools%2C+not+templates" />
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python&theme=dark" />
 
 <br><br>
 
@@ -62,7 +62,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,postgres,supabase&theme=dark" />
 
 <br><br>
 
@@ -73,7 +73,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=tauri,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tauri,vscode,git,github,figma&theme=dark" />
 
 <br><br>
 
@@ -83,7 +83,7 @@
 
 <br>
 
-`🎮 WoW Addon Dev` &nbsp; `🧩 Chrome Extensions` &nbsp; `📝 VS Code Extensions` &nbsp; `🖥 eGUI`
+`🧩 Chrome Extensions` &nbsp; `📝 VS Code Extensions` &nbsp; `🖥 eGUI` &nbsp; `🔺 Convex`
 
 <br>
 
@@ -163,8 +163,7 @@
 
 <br><br>
 
-I ship tools, not templates. If it doesn't solve a real problem, I don't build it.
-
+We build it exactly how you imagined it.
 
 <br>
 
