@@ -162,3 +162,12 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br><br>
+
+I ship tools, not templates. If it doesn't solve a real problem, I don't build it.
+
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=120&section=footer" width="100%" />
+
+</div>
