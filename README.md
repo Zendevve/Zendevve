@@ -12,7 +12,7 @@
 <a href="https://buymeacoffee.com/zendevve">
   <img src="https://img.shields.io/badge/SUPPORT-58a6ff?style=for-the-badge&logo=buymeacoffee&logoColor=0d1117" />
 </a>&nbsp;
-<a href="mailto:your-email@example.com">
+<a href="mailto:zendevve@blondmail.com">
   <img src="https://img.shields.io/badge/HIRE_ME-58a6ff?style=for-the-badge&logo=gmail&logoColor=0d1117" />
 </a>
 
@@ -24,11 +24,75 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
+</div>
+
+## 👋 Hello World!
+
+I am **Nathaniel Clark B. Guinto**, a full-stack software engineer with a track record of shipping complete products—from database schema and fine-grained security policies to custom native runtimes and desktop integrations. I have built and delivered over 120 projects across web, mobile, desktop, and systems domains, always emphasizing performance, security, and exceptional user experience.
+
+---
+
+## 🚀 Flagship Projects
+
+Here are some of the major systems and products I have architected and shipped:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ eLUNSAD</h3>
+      <p><em>Government Business Permit Processing System (Real Client)</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> React 18 + Vite + TypeScript + Supabase + shadcn/ui.</li>
+        <li><strong>Highlights:</strong> Granular Row Level Security (RLS) policies for departmental access, Deno-based Edge Functions for serverless PDF generation/webhooks, Leaflet maps, and 18+ interactive Recharts dashboards.</li>
+        <li><strong>Impact:</strong> Transitioned manual paper-based business licensing workflows to a modern, automated system.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 DXVK Studio</h3>
+      <p><em>Desktop Game Compatibility & PE Header Tool</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> Electron 33 + Vite + Tailwind CSS + SQLite (better-sqlite3).</li>
+        <li><strong>Highlights:</strong> Auto-detects local Steam/Epic/GOG library games, parses PE headers for binary architecture inspection, and scans for anti-cheat signatures before compatibility injection.</li>
+        <li><strong>Impact:</strong> Active user base, Discord community, automated releases, and monetized via Buy Me a Coffee.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👾 PocketHost</h3>
+      <p><em>On-Device Minecraft Server Host on Android</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> React Native + Expo 52 + Custom Android Native Module (Java).</li>
+        <li><strong>Highlights:</strong> Developed custom Java native modules to bridge the React Native application directly with the Android JVM, spawning PaperMC servers locally and tunneling external traffic via playit.gg tunnels.</li>
+        <li><strong>Impact:</strong> Enables users to host local, custom-modded Minecraft servers on standard Android hardware.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Wyvern Drive</h3>
+      <p><em>Discord-Integrated Zero-Knowledge Cloud Storage</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> React + Vite + Supabase Edge Functions + Chrome Extension (Manifest V3).</li>
+        <li><strong>Highlights:</strong> Implements client-side AES-256-GCM encryption (Web Crypto API) before files touch Supabase Storage, utilizing Discord webhooks and attachment chunking for storage scaling. Includes virtual scrolling for smooth rendering of thousands of files.</li>
+        <li><strong>Impact:</strong> Zero-knowledge file hosting using Discord attachments as backup storage.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛒 POSible</h3>
+      <p><em>BIR-Compliant, Offline-First PWA Point of Sale</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> React 18 + Vite + TypeScript + PowerSync + wa-sqlite + Supabase (PostgreSQL).</li>
+        <li><strong>Highlights:</strong> Implemented offline-first synchronization using PowerSync to sync local SQLite (wa-sqlite) with PostgreSQL. Features a BIR-compliant tax computation engine, role-based access control (RBAC) gated from RLS to UI, and receipt generation.</li>
+        <li><strong>Impact:</strong> Keep transactions moving in food and beverage operations even during internet dropouts, with automated sync on reconnection.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## ⚡ Tech Arsenal
-
-<br>
 
 <table>
 <tr>
@@ -38,8 +102,10 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python,java,lua,postgres&theme=dark" />
 
+<br>
+<em>TypeScript, JavaScript, Rust, Python, Java, Lua, SQL (Postgres/SQLite)</em>
 <br><br>
 
 </td>
@@ -49,8 +115,10 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
 
+<br>
+<em>React (18/19), Next.js (App Router), Tailwind CSS, Vite, Framer Motion, Figma</em>
 <br><br>
 
 </td>
@@ -62,8 +130,10 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,postgres,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,supabase,sqlite&theme=dark" />
 
+<br>
+<em>Node.js, Django, Supabase (RLS, Edge Functions, Realtime), wa-sqlite, PowerSync</em>
 <br><br>
 
 </td>
@@ -73,27 +143,33 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=tauri,vscode,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=electron,tauri,git,github,vscode&theme=dark" />
 
+<br>
+<em>Electron, Tauri, Git, GitHub Actions, EAS Build, VS/Chrome Extensions, Playwright</em>
 <br><br>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-`🧩 Chrome Extensions` &nbsp; `📝 VS Code Extensions` &nbsp; `🖥 eGUI` &nbsp; `🔺 Convex`
+## 🎓 Education & Certifications
 
-<br>
+* **Dalubhasaan ng Lungsod ng Lucena (DLL)** — BS Information Technology (Graduating 2026)
+* 🛡️ **Ethical Hacker** — *Cisco / Credly*
+* 🔍 **Junior Cybersecurity Analyst** — *Cisco / Credly*
+* 🐍 **Python Essentials 1 & 2** — *Cisco / Credly*
+* 📊 **Data Analytics Essentials** — *Cisco / Credly*
+* 🌐 **Introduction to Data Science / Cybersecurity** — *Cisco / Credly*
+* ⚙️ **Computer Hardware Basics** — *Cisco / Credly*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
+---
 
 ## 📊 GitHub Analytics
 
-<br>
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zendevve&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&bg_color=00000000&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
@@ -101,45 +177,15 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=donut&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="38%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zendevve&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zendevve&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="58%"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<details>
+<summary>🏆 View Achievements & Trophies</summary>
 <br>
-
-## 🏆 Achievements
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zendevve&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12" width="90%"/>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🎓 Certifications
-
-<br>
-
-<a href="https://www.credly.com/badges/69224146-06de-44f0-a109-1a568a9bec0c"><img src="https://i.ibb.co/qM23mF8c/junior-cybersecurity-analyst-career-path-1.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44"><img src="https://i.ibb.co/PsThJwwV/ethical-hacker.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/6311ea47-97f9-4557-b703-4bd9711097bc"><img src="https://i.ibb.co/sJJNgMSj/introduction-to-cybersecurity.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/27e10d6a-001c-42d2-87e3-059f9c3c1218"><img src="https://i.ibb.co/kskNVNW4/data-analytics-essentials.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/a7ce69d1-9b64-4822-85f9-57a0c9fb4728"><img src="https://i.ibb.co/zTpY93vW/introduction-to-data-science.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/5a9e1872-91c2-4fb7-8165-673597eed77c"><img src="https://i.ibb.co/YBC6Ywmt/python-essentials-1-1.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/24712d9c-4625-452b-9b52-08ac9960e788"><img src="https://i.ibb.co/4wPD45P1/python-essentials-2.png" width="80"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/af966ca3-c4eb-43e2-838f-6c5313ec45cb"><img src="https://i.ibb.co/wZ4KddmX/computer-hardware-basics.png" width="80"/></a>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=Zendevve&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12" width="100%"/>
+</details>
 
 <br>
 
@@ -153,17 +199,19 @@
 
 <img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
+</div>
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br><br>
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br><br>
 
-We build it exactly how you imagined it.
+*“We build it exactly how you imagined it.”*
 
 <br>
 
