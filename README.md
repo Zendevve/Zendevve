@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=230&section=header&text=zendevve&fontSize=90&fontColor=ffffff&fontAlignY=34&desc=Engineering%20the%20future,%20one%20line%20at%20a%20time.&descSize=20&descColor=c9d1d9&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%A6%80+Shipping+desktop+apps+with+Rust;%F0%9F%94%A7+Crafting+browser+extensions+in+TypeScript;%F0%9F%9A%80+Full-stack+with+React+%2B+Django;%E2%9A%A1+I+ship+tools%2C+not+templates" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%9A%80+Shipping+Full-Stack+Web+%26+Mobile;%F0%9F%92%BB+Building+Desktop+%26+System+Tools;%F0%9F%94%92+Security-First+%26+Offline-Resilient;%E2%9A%A1+I+ship+products%2C+not+templates" />
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ## 👋 Hello World!
 
-I am **Nathaniel Clark B. Guinto**, a full-stack software engineer with a track record of shipping complete products—from database schema and fine-grained security policies to custom native runtimes and desktop integrations. I have built and delivered over 120 projects across web, mobile, desktop, and systems domains, always emphasizing performance, security, and exceptional user experience.
+I am **Zendevve**, a full-stack software engineer with a track record of shipping complete products—from database schema and fine-grained security policies to custom native runtimes and desktop integrations. I have built and delivered over 120 projects across web, mobile, desktop, and systems domains, always emphasizing performance, security, and exceptional user experience.
 
 ---
 
@@ -78,13 +78,22 @@ Here are some of the major systems and products I have architected and shipped:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🛒 POSible</h3>
       <p><em>BIR-Compliant, Offline-First PWA Point of Sale</em></p>
       <ul>
         <li><strong>Architecture:</strong> React 18 + Vite + TypeScript + PowerSync + wa-sqlite + Supabase (PostgreSQL).</li>
         <li><strong>Highlights:</strong> Implemented offline-first synchronization using PowerSync to sync local SQLite (wa-sqlite) with PostgreSQL. Features a BIR-compliant tax computation engine, role-based access control (RBAC) gated from RLS to UI, and receipt generation.</li>
         <li><strong>Impact:</strong> Keep transactions moving in food and beverage operations even during internet dropouts, with automated sync on reconnection.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 Narrivo</h3>
+      <p><em>Cross-Platform Audiobook & eBook Reader</em></p>
+      <ul>
+        <li><strong>Architecture:</strong> React Native + Expo 52 (Mobile) & React + Vite (Web) + Zustand.</li>
+        <li><strong>Highlights:</strong> Designed a responsive Neo-Brutalist interface. Integrated epub.js for fluid book rendering and developed synchronized read-along audio playback mapping timestamps to text.</li>
+        <li><strong>Impact:</strong> Premium, offline-first reading and listening experience with synchronized state.</li>
       </ul>
     </td>
   </tr>
