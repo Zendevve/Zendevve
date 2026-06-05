@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=230&section=header&text=Nathaniel+Guinto&fontSize=70&fontColor=ffffff&fontAlignY=34&desc=Full-Stack+%7C+Desktop+%7C+Mobile+%7C+Security-First+%7C+Open+to+Work&descSize=17&descColor=58a6ff&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=230&section=header&text=Zendevve&fontSize=70&fontColor=ffffff&fontAlignY=34&desc=Full-Stack+%7C+Desktop+%7C+Mobile+%7C+Security-First+%7C+Open+to+Work&descSize=17&descColor=58a6ff&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ## 👋 About Me
 
-I'm **Nathaniel Clark B. Guinto**, a full-stack software engineer who ships complete, production-grade products — not demos. I've built and delivered **120+ projects** across web, mobile, desktop, and systems domains, covering everything from database schema and row-level security policies to custom native Android runtimes and offline-first sync engines.
+I'm **Zen**, a full-stack software engineer who ships complete, production-grade products — not demos. I've built and delivered **120+ projects** across web, mobile, desktop, and systems domains, covering everything from database schema and row-level security policies to custom native Android runtimes and offline-first sync engines.
 
 - 🎓 **BS Information Technology** — Dalubhasaan ng Lungsod ng Lucena *(Graduating 2026)*
 - 🌏 Based in the **Philippines** — available for **remote work worldwide**
