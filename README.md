@@ -280,7 +280,7 @@ I'm **Zen**, a full-stack software engineer who ships complete, production-grade
 
 ### 💼 Let's Work Together
 
-I'm a graduating engineer (2026) with production-grade work already in the field.<br>
+I'm an agentic engineer (2026) with production-grade work already in the field.<br>
 If you need someone who ships clean, secure, full-stack software — I'm available.
 
 <br>
