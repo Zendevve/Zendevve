@@ -37,7 +37,7 @@
 
 I'm **Zen**, a full-stack software engineer who ships complete, production-grade products — not demos. I've built and delivered **120+ projects** across web, mobile, desktop, and systems domains, covering everything from database schema and row-level security policies to custom native Android runtimes and offline-first sync engines.
 
-- 🎓 **BS Information Technology** — Dalubhasaan ng Lungsod ng Lucena *(Graduating 2026)*
+- 🎓 **BS Information Technology** *(Graduated 2026)*
 - 🌏 Based in the **Philippines** — available for **remote work worldwide**
 - 🔐 Background in **cybersecurity** (Cisco-certified) — security is in my architecture, not bolted on
 - 🛠 I've shipped for **real clients**, real users, and active communities — not just personal portfolios
@@ -247,9 +247,9 @@ I'm **Zen**, a full-stack software engineer who ships complete, production-grade
 
 <br>
 
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
-**Dalubhasaan ng Lungsod ng Lucena (DLL)** — BS Information Technology *(Graduating 2026)*
+BS Information Technology *(Graduated 2026)*
 
 <br>
 
