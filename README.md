@@ -1,388 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,35:0d1117,70:172554,100:2563eb&height=220&section=header&text=ZENDEVVE&fontSize=86&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK+SOFTWARE+ENGINEER+%7C+SYSTEMS+BUILDER&descAlignY=61&descSize=15&descColor=60a5fa&animation=fadeIn" width="100%"/>
+# ZENDEVVE
+
+### Full-Stack Software Engineer
+
+**Web · Desktop · Mobile · Backend · Systems**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/Zendevve)
- 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=ffffff)](mailto:zendevve@blondmail.com)
- 
-[![Projects](https://img.shields.io/badge/Projects-2563eb?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/Zendevve?tab=repositories&type=source)
+<a href="https://github.com/Zendevve">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:zendevve@blondmail.com">
+<img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3" width="92%"/>
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-## > ABOUT
-
-I'm **Zen**, a full-stack software engineer based in the Philippines.
-
-I build production software across **web, desktop, mobile, and backend systems**, with a focus on applications that need to be reliable, secure, and useful beyond a prototype.
-
-My work includes government systems, business software, desktop tools, mobile applications, and security-focused infrastructure.
-
-**BS Information Technology · 2026**
-
-**Open to freelance, contract & remote opportunities.**
-
-</td>
-
-<td width="52%" valign="top">
-
-## > CORE FOCUS
-
-**Web** <br/>
-React · TypeScript · Next.js · Vite
-
-**Backend** <br/>
-Node.js · Django · Supabase · PostgreSQL
-
-**Mobile** <br/>
-React Native · Expo · Android · Java
-
-**Desktop** <br/>
-Electron · Tauri · SQLite
-
-**Systems** <br/>
-Offline-first · Synchronization · RLS · Encryption
-
-**Engineering** <br/>
-Architecture · Automation · CI/CD · Developer Tools
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3" width="92%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## `> FEATURED PROJECTS`
-
-<sub>Selected systems built from architecture through implementation.</sub>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏛️ [eLUNSAD](https://github.com/Zendevve/REPO-LINK)
-
-**Government Business Permit System**
-
-Digital licensing platform replacing a paper-based municipal business permit workflow.
-
-`React` `TypeScript` `Vite`
-`Supabase` `Deno` `shadcn/ui`
-
-**Highlights**
-
-* Granular Row Level Security
-* Serverless PDF generation
-* Webhooks & automated workflows
-* Interactive dashboards & maps
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧾 [POSible](https://github.com/Zendevve/REPO-LINK)
-
-**Offline-First Point of Sale**
-
-Business POS designed to keep transactions running through internet outages.
-
-`React` `TypeScript` `PowerSync`
-`SQLite` `Supabase`
-
-**Highlights**
-
-* Local-first transactions
-* SQLite → PostgreSQL synchronization
-* BIR tax computation
-* RBAC & RLS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎮 [DXVK Studio](https://github.com/Zendevve/REPO-LINK)
-
-**Desktop Game Compatibility Tool**
-
-Desktop utility for game-library detection, compatibility analysis, and PE-header inspection.
-
-`Electron` `Vite` `Tailwind` `SQLite`
-
-**Highlights**
-
-* Steam / Epic / GOG detection
-* PE binary inspection
-* Compatibility tooling
-* Active user community
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 [PocketHost](https://github.com/Zendevve/REPO-LINK)
-
-**Minecraft Server Hosting on Android**
-
-Runs Minecraft servers directly on standard Android hardware.
-
-`React Native` `Expo` `Java`
-
-**Highlights**
-
-* Custom Java native modules
-* Local PaperMC servers
-* Android JVM integration
-* playit.gg tunneling
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 [Wyvern Drive](https://github.com/Zendevve/REPO-LINK)
-
-**Zero-Knowledge Cloud Storage**
-
-Cloud storage where files are encrypted on the client before reaching the server.
-
-`React` `Vite` `Supabase`
-`Web Crypto API` `Chrome MV3`
-
-**Highlights**
-
-* AES-256-GCM encryption
-* Client-side cryptography
-* Chunked storage
-* Virtualized file browsing
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📖 [Narrivo](https://github.com/Zendevve/REPO-LINK)
-
-**Audiobook & eBook Reader**
-
-Cross-platform reading application combining ebooks with synchronized audio.
-
-`React Native` `Expo` `React`
-`Zustand` `epub.js`
-
-**Highlights**
-
-* Offline reading
-* Read-along audio
-* Timestamp synchronization
-* Shared application state
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3" width="92%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## `> TECH STACK`
-
-</div>
-
-<table>
-<tr>
-<th width="18%">Area</th>
-<th>Technologies</th>
-<th width="30%">What I Use Them For</th>
-</tr>
-
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-TypeScript · JavaScript · Python · Java · Rust · Lua · SQL
-</td>
-<td>
-Application development, scripting, systems, databases
-</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-React · Next.js · Vite · Tailwind CSS · Figma
-</td>
-<td>
-Production web applications & product interfaces
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-Node.js · Django · Supabase · PostgreSQL · Edge Functions
-</td>
-<td>
-APIs, databases, authentication & serverless systems
-</td>
-</tr>
-
-<tr>
-<td><strong>Mobile</strong></td>
-<td>
-React Native · Expo · Android · Java · Native Modules
-</td>
-<td>
-Cross-platform apps & native Android integrations
-</td>
-</tr>
-
-<tr>
-<td><strong>Desktop</strong></td>
-<td>
-Electron · Tauri · SQLite
-</td>
-<td>
-Developer tools, utilities & desktop applications
-</td>
-</tr>
-
-<tr>
-<td><strong>Architecture</strong></td>
-<td>
-Offline-first · RLS · Synchronization · AES-256-GCM · Zero-Knowledge
-</td>
-<td>
-Reliable, secure & distributed applications
-</td>
-</tr>
-
-<tr>
-<td><strong>Delivery</strong></td>
-<td>
-Git · GitHub Actions · Playwright · EAS · VS Code
-</td>
-<td>
-Testing, automation, CI/CD & development workflows
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3" width="92%"/>
-</div>
-
-<br/>
+---
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-## > CREDENTIALS
+## About
 
-**BS Information Technology**
-Graduated 2026
+I'm **Zen**, a full-stack software engineer based in the Philippines.
 
-**Cybersecurity**
+I build production software across web, desktop, mobile, and backend systems — from government applications and business tools to developer software and security-focused applications.
 
-* Junior Cybersecurity Analyst
-* Ethical Hacker
-* Introduction to Cybersecurity
+My focus is **shipping useful software end-to-end**, with an emphasis on reliability, security, and maintainable architecture.
 
-**Technical**
-
-* Data Analytics Essentials
-* Introduction to Data Science
-* Python Essentials 1
-* Python Essentials 2
-* Computer Hardware Basics
+**BS Information Technology · 2026**
 
 </td>
 
 <td width="45%" valign="top">
 
-## > ENGINEERING APPROACH
+## Core Stack
 
-**Build end-to-end.**
-Frontend → backend → database → deployment.
+**Frontend**
+React · Next.js · TypeScript · Vite
 
-**Design for reality.**
-Offline support, failure handling, security boundaries, and maintainability.
+**Backend**
+Node.js · Django · Supabase · PostgreSQL
 
-**Ship useful software.**
-The goal isn't another demo. It's software people can actually use.
+**Mobile**
+React Native · Expo · Android · Java
+
+**Desktop**
+Electron · Tauri · SQLite
+
+**Systems**
+Offline-first · RLS · Synchronization · Encryption
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### eLUNSAD
+
+**Government Business Permit System**
+
+Digitizes a municipal business permit workflow from application through processing.
+
+`React` `TypeScript` `Supabase` `Deno`
+
+**RLS · PDF generation · Dashboards · Maps**
+
+</td>
+
+<td width="50%" valign="top">
+
+### POSible
+
+**Offline-First Point of Sale**
+
+Keeps business transactions running even when internet connectivity is unavailable.
+
+`React` `TypeScript` `SQLite` `Supabase`
+
+**Local-first · Synchronization · RBAC · Tax computation**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### DXVK Studio
+
+**Desktop Game Compatibility Tool**
+
+Desktop software for game detection, compatibility analysis, and PE-header inspection.
+
+`Electron` `Vite` `SQLite` `Tailwind`
+
+**Binary inspection · Game detection · Automated releases**
+
+</td>
+
+<td width="50%" valign="top">
+
+### PocketHost
+
+**Minecraft Server Hosting for Android**
+
+Runs Minecraft servers directly on Android hardware.
+
+`React Native` `Expo` `Java`
+
+**Native modules · PaperMC · Android JVM · Tunneling**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Wyvern Drive
+
+**Zero-Knowledge Cloud Storage**
+
+Encrypts files on the client before they reach the server.
+
+`React` `Supabase` `Web Crypto` `Chrome MV3`
+
+**AES-256-GCM · Client-side encryption · Chunked storage**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Narrivo
+
+**Audiobook & eBook Reader**
+
+Cross-platform reading application with synchronized audio.
+
+`React Native` `Expo` `Zustand` `epub.js`
+
+**Offline reading · Audio synchronization**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Skills
+
+| Area             | Technologies                                                   |
+| :--------------- | :------------------------------------------------------------- |
+| **Languages**    | TypeScript · JavaScript · Python · Java · Rust · Lua · SQL     |
+| **Frontend**     | React · Next.js · Vite · Tailwind CSS                          |
+| **Backend**      | Node.js · Django · Supabase · PostgreSQL · REST APIs           |
+| **Mobile**       | React Native · Expo · Android · Java · Native Modules          |
+| **Desktop**      | Electron · Tauri · SQLite                                      |
+| **Architecture** | Offline-first · Synchronization · RLS · Client-side encryption |
+| **Tools**        | Git · GitHub Actions · Playwright · VS Code                    |
+
+---
+
+## Education
+
+**BS Information Technology — 2026**
+
+Selected credentials in cybersecurity, data, Python, and computer hardware.
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3" width="92%"/>
-</div>
+
+## Available for Work
+
+**Freelance · Contract · Remote**
 
 <br/>
 
-<div align="center">
-
-## `> LET'S BUILD`
-
-**Open to freelance, contract, and remote software engineering opportunities.**
-
-<br/><br/>
-
-[![View Projects](https://img.shields.io/badge/VIEW_PROJECTS-2563eb?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/Zendevve?tab=repositories&type=source)
- 
-[![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-2563eb?style=for-the-badge\&logo=gmail\&logoColor=ffffff)](mailto:zendevve@blondmail.com)
-
-<br/><br/>
-
-<sub>Architecture → Implementation → Deployment</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,35:0d1117,70:172554,100:2563eb&height=110&section=footer" width="100%"/>
+<a href="mailto:zendevve@blondmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Zendevve?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
