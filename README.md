@@ -1,299 +1,347 @@
+# Zendevve — GitHub Profile README
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=230&section=header&text=Zendevve&fontSize=70&fontColor=ffffff&fontAlignY=34&desc=Full-Stack+%7C+Desktop+%7C+Mobile+%7C+Security-First+%7C+Open+to+Work&descSize=17&descColor=58a6ff&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,75:1f6feb,100:58a6ff&height=220&section=header&text=ZENDEVVE&fontSize=82&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK+%7C+DESKTOP+%7C+MOBILE+%7C+SYSTEMS+ENGINEERING&descAlignY=61&descSize=14&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%9A%80+Shipped+120%2B+real+products+across+web%2C+mobile+%26+desktop;%F0%9F%8F%9B%EF%B8%8F+Architected+a+live+gov%27t+business+permit+system;%F0%9F%92%BB+Built+desktop+tools+with+active+users+%26+Discord+community;%F0%9F%94%92+Security-first+%3A+AES-256%2C+RLS%2C+zero-knowledge+by+default;%E2%9A%A1+I+ship+products%2C+not+templates" />
-
-<br>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:zendevve@blondmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
 <a href="https://github.com/Zendevve?tab=repositories&type=source">
-  <img src="https://img.shields.io/badge/My_Projects-58a6ff?style=for-the-badge&logo=github&logoColor=0d1117" />
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:zendevve@blondmail.com">
+<img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
 <a href="https://buymeacoffee.com/zendevve">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Support-58a6ff?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Zendevve&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Zendevve&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 👋 About Me
-
-I'm **Zen**, a full-stack software engineer who ships complete, production-grade products — not demos. I've built and delivered **120+ projects** across web, mobile, desktop, and systems domains, covering everything from database schema and row-level security policies to custom native Android runtimes and offline-first sync engines.
-
-- 🎓 **BS Information Technology** *(Graduated 2026)*
-- 🌏 Based in the **Philippines** — available for **remote work worldwide**
-- 🔐 Background in **cybersecurity** (Cisco-certified) — security is in my architecture, not bolted on
-- 🛠 I've shipped for **real clients**, real users, and active communities — not just personal portfolios
-- ✅ **Actively open to hire** — freelance, contract, or full-time remote
-
-> I don't just build features. I architect systems that are secure, offline-resilient, and designed to scale.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🚀 Flagship Projects
-
-> Six of my most complex shipped systems — each solving a real problem for real users.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏛️ [eLUNSAD](https://github.com/Zendevve/REPO-LINK)
-*Government Business Permit Processing System — Real Client*
-
-**Stack:** `React 18` `TypeScript` `Vite` `Supabase` `Deno Edge Functions` `shadcn/ui`
-
-- Granular Row Level Security (RLS) policies for multi-department access
-- Deno Edge Functions for serverless PDF generation and webhooks
-- 18+ interactive Recharts dashboards + Leaflet maps
-- **Impact:** Replaced a fully paper-based municipal licensing workflow with an automated digital system
-
-</td>
-    <td width="50%" valign="top">
-
-### 🎮 [DXVK Studio](https://github.com/Zendevve/REPO-LINK)
-*Desktop Game Compatibility & PE Header Tool — Active Users*
-
-**Stack:** `Electron 33` `Vite` `Tailwind CSS` `SQLite (better-sqlite3)`
-
-- Auto-detects Steam / Epic / GOG libraries and parses PE headers for binary inspection
-- Scans for anti-cheat signatures before compatibility injection
-- **Impact:** Active user base, Discord community, automated GitHub releases, monetized via Buy Me a Coffee
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👾 [PocketHost](https://github.com/Zendevve/REPO-LINK)
-*On-Device Minecraft Server Host on Android*
-
-**Stack:** `React Native` `Expo 52` `Custom Java Native Module`
-
-- Wrote custom Java native modules to bridge React Native directly to the Android JVM
-- Spawns PaperMC servers locally; tunnels external traffic via playit.gg
-- **Impact:** Users run fully modded Minecraft servers on standard Android hardware — no PC required
-
-</td>
-    <td width="50%" valign="top">
-
-### 🔒 [Wyvern Drive](https://github.com/Zendevve/REPO-LINK)
-*Discord-Integrated Zero-Knowledge Cloud Storage*
-
-**Stack:** `React` `Vite` `Supabase Edge Functions` `Web Crypto API` `Chrome Extension MV3`
-
-- Client-side AES-256-GCM encryption before any file touches a server
-- Discord webhook attachment chunking used as scalable free storage backend
-- Virtual scrolling for smooth rendering of thousands of files
-- **Impact:** True zero-knowledge cloud storage with no proprietary storage costs
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 [POSible](https://github.com/Zendevve/REPO-LINK)
-*BIR-Compliant, Offline-First PWA Point of Sale*
-
-**Stack:** `React 18` `TypeScript` `PowerSync` `wa-sqlite` `Supabase (PostgreSQL)`
-
-- Offline-first sync engine: PowerSync syncs local SQLite → PostgreSQL on reconnect
-- BIR-compliant tax computation engine with RBAC gated from RLS down to UI
-- **Impact:** F&B operations keep transacting through internet outages, zero data loss
-
-</td>
-    <td width="50%" valign="top">
-
-### 📖 [Narrivo](https://github.com/Zendevve/REPO-LINK)
-*Cross-Platform Audiobook & eBook Reader*
-
-**Stack:** `React Native` `Expo 52` `React` `Vite` `Zustand` `epub.js`
-
-- Neo-Brutalist UI designed from scratch; works on mobile and web
-- Synchronized read-along audio: timestamps mapped to text in real time
-- **Impact:** Premium offline reading + listening with fully synchronized state across platforms
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## ⚡ Tech Arsenal
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🔤 Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,java,lua,postgres&theme=dark" />
-
-<br>
-<sub>TypeScript · JavaScript · Rust · Python · Java · Lua · SQL</sub>
-
-</td>
-<td align="center" width="50%">
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
-
-<br>
-<sub>React 18/19 · Next.js App Router · Tailwind · Vite · Framer Motion · Figma</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**⚙️ Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,supabase,sqlite&theme=dark" />
-
-<br>
-<sub>Node.js · Django · Supabase (RLS, Edge Functions, Realtime) · PowerSync · wa-sqlite</sub>
-
-</td>
-<td align="center">
-
-**🛠 Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=electron,tauri,git,github,vscode&theme=dark" />
-
-<br>
-<sub>Electron · Tauri · GitHub Actions · EAS Build · Chrome/VS Code Extensions · Playwright</sub>
-
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=15\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Production+Web+Applications;Desktop+Software+%26+Developer+Tools;Mobile+Applications+%26+Native+Systems;Offline-First+%26+Distributed+Applications;Security-First+Architecture;AI-Augmented+Software+Engineering)](https://github.com/Zendevve)
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
 
-<br>
+<br/>
 
-## 📊 GitHub Analytics
+## > ABOUT
 
-<br>
+> **Hi, I'm Zen.**
+>
+> I build end-to-end software — from frontend interfaces and backend systems to databases, native modules, automation, and deployment.
+>
+> My work spans **web, desktop, mobile, and systems engineering**, with a particular interest in software that has to work in the real world: offline-first applications, security-sensitive systems, native integrations, and tools used by actual people.
+>
+> I've shipped **120+ projects** across different platforms and domains, including client systems, developer tools, desktop applications, mobile software, and community-driven products.
+>
+> **I don't just build demos. I build software that has somewhere to go after the demo.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+## > WHAT I BUILD
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zendevve&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&bg_color=00000000&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
+| Area                   | Focus                                                                               |
+| :--------------------- | :---------------------------------------------------------------------------------- |
+| **Web Applications**   | React, TypeScript, Vite, Next.js, dashboards, SaaS, business systems                |
+| **Backend & Data**     | APIs, PostgreSQL, Supabase, RLS, Edge Functions, realtime systems                   |
+| **Desktop Software**   | Electron, Tauri, SQLite, developer tools, game utilities                            |
+| **Mobile Systems**     | React Native, Expo, Android native modules, offline applications                    |
+| **Security**           | Client-side encryption, RLS, zero-knowledge architecture, secure application design |
+| **Offline-First**      | Local databases, synchronization engines, resilient transaction workflows           |
+| **Automation & Tools** | GitHub Actions, extensions, automation, deployment and developer tooling            |
 
-<br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zendevve&layout=donut&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="38%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zendevve&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="58%"/>
+<br/>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zendevve&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12" width="100%"/>
-</details>
+<br/>
 
-<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,60:161b22,100:0d1117&height=50&text=%3E+FEATURED+PROJECTS&fontSize=16&fontColor=58a6ff&fontAlignY=50" width="100%"/>
+
+<br/>
+
+</div>
+
+<table>
+<tr>
+<th width="20%">Project</th>
+<th width="34%">What it is</th>
+<th width="28%">Stack</th>
+<th width="18%">Highlights</th>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">eLUNSAD</a></strong></td>
+<td>Government business permit processing system built to replace a paper-based municipal licensing workflow.</td>
+<td>React 18 · TypeScript · Vite · Supabase · Deno · shadcn/ui</td>
+<td>RLS · PDF generation · Webhooks · Dashboards · Maps</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">DXVK Studio</a></strong></td>
+<td>Desktop game compatibility and PE-header inspection tool with an active user community.</td>
+<td>Electron 33 · Vite · Tailwind · SQLite</td>
+<td>Game detection · Binary inspection · Anti-cheat scanning · Releases</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">PocketHost</a></strong></td>
+<td>Android application capable of running Minecraft servers directly on mobile hardware.</td>
+<td>React Native · Expo 52 · Java · PaperMC</td>
+<td>Native modules · Local servers · playit.gg tunneling</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">Wyvern Drive</a></strong></td>
+<td>Discord-integrated zero-knowledge cloud storage application.</td>
+<td>React · Vite · Supabase · Web Crypto API · Chrome MV3</td>
+<td>AES-256-GCM · Client encryption · Chunked storage · Virtual scrolling</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">POSible</a></strong></td>
+<td>Offline-first point-of-sale system designed to keep transactions running through connectivity loss.</td>
+<td>React 18 · TypeScript · PowerSync · wa-sqlite · Supabase</td>
+<td>Offline sync · PostgreSQL · BIR tax logic · RBAC</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://github.com/Zendevve/REPO-LINK">Narrivo</a></strong></td>
+<td>Cross-platform audiobook and eBook reader with synchronized reading and audio playback.</td>
+<td>React Native · Expo 52 · React · Vite · Zustand · epub.js</td>
+<td>Offline reading · Read-along audio · Synchronized state</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,60:161b22,100:0d1117&height=50&text=%3E+TECH+STACK&fontSize=16&fontColor=58a6ff&fontAlignY=50" width="100%"/>
+
+<br/>
+
+</div>
+
+<table>
+<tr>
+<th width="22%">Area</th>
+<th>Technologies & Focus</th>
+</tr>
+
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff"/>
+<br/>
+<sub>Application development, systems programming, scripting, and database development.</sub>
+</td>
+</tr>
+
+<tr>
+<td><strong>Web & Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=58a6ff"/>
+<br/>
+<sub>Modern web applications, responsive interfaces, component systems, and product UI.</sub>
+</td>
+</tr>
+
+<tr>
+<td><strong>Backend & Data</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=58a6ff"/>
+<br/>
+<sub>APIs, authentication, RLS, Edge Functions, realtime systems, synchronization, and local storage.</sub>
+</td>
+</tr>
+
+<tr>
+<td><strong>Desktop & Mobile</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=58a6ff"/>
+<br/>
+<sub>Cross-platform applications, native integrations, desktop tooling, and mobile runtimes.</sub>
+</td>
+</tr>
+
+<tr>
+<td><strong>Security & Architecture</strong></td>
+<td>
+<img src="https://img.shields.io/badge/AES--256--GCM-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/RLS-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zero--Knowledge-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Offline--First-0d1117?style=flat-square"/>
+<br/>
+<sub>Client-side encryption, authorization boundaries, secure data access, offline resilience, and distributed application design.</sub>
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools & Delivery</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/EAS-0d1117?style=flat-square"/>
+<br/>
+<sub>Version control, CI/CD, testing, browser automation, builds, releases, and developer tooling.</sub>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,60:161b22,100:0d1117&height=50&text=%3E+CERTIFICATIONS&fontSize=16&fontColor=58a6ff&fontAlignY=50" width="100%"/>
+
+<br/><br/>
+
+<strong>BS Information Technology</strong> · Graduated 2026
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/69224146-06de-44f0-a109-1a568a9bec0c"><img src="https://i.ibb.co/qM23mF8c/junior-cybersecurity-analyst-career-path-1.png" width="75" title="Junior Cybersecurity Analyst"/></a>
+  <a href="https://www.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44"><img src="https://i.ibb.co/PsThJwwV/ethical-hacker.png" width="75" title="Ethical Hacker"/></a>
+  <a href="https://www.credly.com/badges/6311ea47-97f9-4557-b703-4bd9711097bc"><img src="https://i.ibb.co/sJJNgMSj/introduction-to-cybersecurity.png" width="75" title="Introduction to Cybersecurity"/></a>
+  <a href="https://www.credly.com/badges/27e10d6a-001c-42d2-87e3-059f9c3c1218"><img src="https://i.ibb.co/kskNVNW4/data-analytics-essentials.png" width="75" title="Data Analytics Essentials"/></a>
+  <a href="https://www.credly.com/badges/a7ce69d1-9b64-4822-85f9-57a0c9fb4728"><img src="https://i.ibb.co/zTpY93vW/introduction-to-data-science.png" width="75" title="Introduction to Data Science"/></a>
+  <a href="https://www.credly.com/badges/5a9e1872-91c2-4fb7-8165-673597eed77c"><img src="https://i.ibb.co/YBC6Ywmt/python-essentials-1-1.png" width="75" title="Python Essentials 1"/></a>
+  <a href="https://www.credly.com/badges/24712d9c-4625-452b-9b52-08ac9960e788"><img src="https://i.ibb.co/4wPD45P1/python-essentials-2.png" width="75" title="Python Essentials 2"/></a>
+  <a href="https://www.credly.com/badges/af966ca3-c4eb-43e2-838f-6c5313ec45cb"><img src="https://i.ibb.co/wZ4KddmX/computer-hardware-basics.png" width="75" title="Computer Hardware Basics"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,60:161b22,100:0d1117&height=50&text=%3E+GITHUB+STATS&fontSize=16&fontColor=58a6ff&fontAlignY=50" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zendevve&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zendevve&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zendevve&show_icons=true&bg_color=00000000&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zendevve&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,60:161b22,100:0d1117&height=50&text=%3E+CONTRIBUTION+VISUALS&fontSize=16&fontColor=58a6ff&fontAlignY=50" width="100%"/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Zendevve/Zendevve/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
-<br>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🎓 Certifications
-
-BS Information Technology *(Graduated 2026)*
-
-<br>
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/69224146-06de-44f0-a109-1a568a9bec0c"><img src="https://i.ibb.co/qM23mF8c/junior-cybersecurity-analyst-career-path-1.png" width="75" title="Junior Cybersecurity Analyst"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/653b6975-1b5b-4ee0-a902-f6818ea99e44"><img src="https://i.ibb.co/PsThJwwV/ethical-hacker.png" width="75" title="Ethical Hacker"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/6311ea47-97f9-4557-b703-4bd9711097bc"><img src="https://i.ibb.co/sJJNgMSj/introduction-to-cybersecurity.png" width="75" title="Introduction to Cybersecurity"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/27e10d6a-001c-42d2-87e3-059f9c3c1218"><img src="https://i.ibb.co/kskNVNW4/data-analytics-essentials.png" width="75" title="Data Analytics Essentials"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/a7ce69d1-9b64-4822-85f9-57a0c9fb4728"><img src="https://i.ibb.co/zTpY93vW/introduction-to-data-science.png" width="75" title="Introduction to Data Science"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/5a9e1872-91c2-4fb7-8165-673597eed77c"><img src="https://i.ibb.co/YBC6Ywmt/python-essentials-1-1.png" width="75" title="Python Essentials 1"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/24712d9c-4625-452b-9b52-08ac9960e788"><img src="https://i.ibb.co/4wPD45P1/python-essentials-2.png" width="75" title="Python Essentials 2"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/af966ca3-c4eb-43e2-838f-6c5313ec45cb"><img src="https://i.ibb.co/wZ4KddmX/computer-hardware-basics.png" width="75" title="Computer Hardware Basics"/></a>
+<img src="https://raw.githubusercontent.com/Zendevve/Zendevve/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%"/>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+## > LET'S BUILD SOMETHING
 
-<br><br>
+If you need someone who can take an idea from **architecture → implementation → deployment**, that's what I do.
 
-### 💼 Let's Work Together
+I'm open to **freelance, contract, and remote opportunities**.
 
-I'm an agentic engineer (2026) with production-grade work already in the field.<br>
-If you need someone who ships clean, secure, full-stack software — I'm available.
+<br/>
 
-<br>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
 <a href="mailto:zendevve@blondmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 
-<br><br>
+ 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=120&section=footer" width="100%" />
+<a href="https://github.com/Zendevve?tab=repositories&type=source">
+<img src="https://img.shields.io/badge/VIEW_PROJECTS-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<sub>Build software. Ship it. Make it useful.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,75:1f6feb,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
