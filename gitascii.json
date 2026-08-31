@@ -12,7 +12,10 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "accentColor": "#f0f0f0",
+        "hideDecorations": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -11540,7 +11543,26 @@
         "width": 504,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "headerColor": "#ffffff",
+        "labelColor": "#d4d4d8",
+        "dotColor": "#3f3f46",
+        "valueColor": "#fafafa",
+        "statsValColor": "#e4e4e7",
+        "dividerColor": "#27272a",
+        "showFollowing": true,
+        "showJoined": false,
+        "showLocation": true,
+        "showAchievements": false,
+        "showHighlights": false,
+        "showPronouns": false,
+        "showStatus": false,
+        "showTimezone": false,
+        "showTwitter": true,
+        "showEmail": true,
+        "showOrgs": false,
+        "showUptime": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -11570,7 +11592,8 @@
           "  ▄█▀    ██████   ██▀█  ██ ██    ██ ██████   ██    ██ ██    ██ ██████  ",
           "▄█▀      ██       ██ ▀█ ██ ██    ██ ██        ▀████▀   ▀████▀  ██      ",
           "████████ ████████ ██   ███ ██████▀  ████████    ▀▀       ▀▀    ████████"
-        ]
+        ],
+        "accentColor": "#ffffff"
       },
       "locked": false,
       "visible": true,
@@ -11605,7 +11628,9 @@
         },
         "badgeStyle": "for-the-badge",
         "animationType": "none",
-        "animationPreviewKey": 4
+        "animationPreviewKey": 4,
+        "hideDecorations": false,
+        "backgroundColor": "#060606"
       },
       "locked": false,
       "visible": true,
@@ -11626,7 +11651,8 @@
       },
       "config": {
         "animationType": "typewriter",
-        "animationPreviewKey": 12
+        "animationPreviewKey": 12,
+        "accentColor": "#ffffff"
       },
       "locked": false,
       "visible": true,
@@ -11665,7 +11691,8 @@
         ],
         "perLine": 16,
         "animationType": "typewriter",
-        "animationPreviewKey": 5
+        "animationPreviewKey": 5,
+        "theme": "dark"
       },
       "locked": false,
       "visible": true,
@@ -11675,13 +11702,14 @@
   "globalStyles": {
     "backgroundColor": "#060606",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
+    "accentColor": "#ffffff",
     "borderColor": "#252525",
-    "fontFamily": "'JetBrains Mono', monospace",
+    "fontFamily": "JetBrains Mono",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native_simple"
+    "templateStyle": "native_simple",
+    "transparentBackground": false
   },
   "templateId": "native_simple",
   "profileSlug": "default"
