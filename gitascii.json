@@ -11561,7 +11561,8 @@
         "showTwitter": true,
         "showEmail": true,
         "showOrgs": false,
-        "showUptime": false
+        "showUptime": false,
+        "showLanguages": true
       },
       "locked": false,
       "visible": true,
@@ -11624,7 +11625,9 @@
           "github": "https://github.com/Zendevve",
           "website": "https://buymeacoffee.com/zendevve",
           "twitter": "https://x.com/OfficiallyZen",
-          "email": "mailto:zendevve@blondmail.com"
+          "email": "mailto:zendevve@duck.com",
+          "discord": "https://discord.gg/Y4rDyTScPe",
+          "linkedin": "www.linkedin.com/in/zendevve"
         },
         "badgeStyle": "for-the-badge",
         "animationType": "none",
