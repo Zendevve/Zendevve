@@ -2,6 +2,7 @@
   "username": "Zendevve",
   "widgets": [
     {
+      "instanceId": "widget_1788173396016",
       "widgetId": "codeweb-retro-grid",
       "name": "Codeweb-retro-grid Widget",
       "position": {
@@ -20,12 +21,7 @@
           "TailwindCSS",
           "Node.js",
           "PostgreSQL",
-          "supabase",
-          "js",
-          "rust",
-          "go",
-          "django",
-          "lua"
+          "Docker"
         ],
         "technologies": [
           "TypeScript",
@@ -34,20 +30,15 @@
           "TailwindCSS",
           "Node.js",
           "PostgreSQL",
-          "supabase",
-          "js",
-          "rust",
-          "go",
-          "django",
-          "lua"
+          "Docker"
         ]
       },
       "locked": false,
       "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1788172049943_0"
+      "zIndex": 1
     },
     {
+      "instanceId": "widget_1788173397644",
       "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
       "position": {
@@ -58,13 +49,16 @@
         "width": 800,
         "height": 220
       },
-      "config": {},
+      "config": {
+        "lockAspectRatio": false,
+        "staticMode": false
+      },
       "locked": false,
       "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1788172049943_1"
+      "zIndex": 2
     },
     {
+      "instanceId": "widget_1788173400638",
       "widgetId": "codeweb-social-badge",
       "name": "Codeweb-social-badge Widget",
       "position": {
@@ -77,37 +71,31 @@
       },
       "config": {
         "platforms": [
-          "medium",
-          "email",
-          "website",
+          "github",
           "gmail",
           "x",
           "linkedin",
-          "discord",
-          "youtube"
+          "discord"
         ],
         "renderMode": "multi",
-        "showText": true,
-        "showIcons": true,
-        "label_medium": ""
+        "label_github": ""
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788172049943_2"
+      "zIndex": 3
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0a0a14",
-    "textColor": "#d6e0f0",
-    "accentColor": "#6cc382",
-    "borderColor": "#1e1e38",
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "codeweb"
+    "templateStyle": "native_advanced"
   },
-  "templateId": "codeweb",
+  "templateId": "native_advanced",
   "profileSlug": "default"
 }
