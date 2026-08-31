@@ -14,24 +14,32 @@
       },
       "config": {
         "selectedTechs": [
-          "ts",
+          "TypeScript",
+          "Next.js",
+          "React",
+          "TailwindCSS",
+          "Node.js",
+          "PostgreSQL",
+          "supabase",
           "js",
-          "html",
-          "css",
-          "sass",
-          "bash",
-          "vue",
-          "cs",
-          "php",
-          "py",
-          "java",
-          "ruby",
-          "c",
-          "cpp",
-          "docker",
-          "github",
-          "nextjs",
-          "mysql"
+          "rust",
+          "go",
+          "django",
+          "lua"
+        ],
+        "technologies": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "TailwindCSS",
+          "Node.js",
+          "PostgreSQL",
+          "supabase",
+          "js",
+          "rust",
+          "go",
+          "django",
+          "lua"
         ]
       },
       "locked": false,
@@ -73,12 +81,15 @@
           "email",
           "website",
           "gmail",
-          "linkedin",
           "x",
-          "github"
+          "linkedin",
+          "discord",
+          "youtube"
         ],
         "renderMode": "multi",
-        "showText": true
+        "showText": true,
+        "showIcons": true,
+        "label_medium": ""
       },
       "locked": false,
       "visible": true,
