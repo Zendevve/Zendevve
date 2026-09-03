@@ -11562,7 +11562,9 @@
         "showEmail": true,
         "showOrgs": false,
         "showUptime": false,
-        "showLanguages": true
+        "showLanguages": true,
+        "showWebsite": false,
+        "showGithub": true
       },
       "locked": false,
       "visible": true,
@@ -11581,7 +11583,7 @@
         "height": 120
       },
       "config": {
-        "customText": "zendevve",
+        "customText": "ZENDEVVE",
         "asciiFont": "block",
         "charSpacing": 1,
         "fontSize": 12,
@@ -11627,7 +11629,7 @@
           "twitter": "https://x.com/OfficiallyZen",
           "email": "mailto:zendevve@duck.com",
           "discord": "https://discord.gg/Y4rDyTScPe",
-          "linkedin": "https://www.linkedin.com/in/zendevve"
+          "linkedin": "www.linkedin.com/in/zendevve"
         },
         "badgeStyle": "for-the-badge",
         "animationType": "none",
