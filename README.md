@@ -1,7 +1,5 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Zendevve?v=1788431165092"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zendevve/zendevve/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zendevve/zendevve/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/zendevve/zendevve/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
